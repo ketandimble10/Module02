@@ -1,0 +1,27 @@
+{
+  "name": "module02",
+  "version": "1.0.0",
+  "description": "EdurekaNodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon question2.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketandimble10/Module02.git"
+  },
+  "author": "Ketan Dimble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketandimble10/Module02/issues"
+  },
+  "homepage": "https://github.com/ketandimble10/Module02#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
